@@ -1,1 +1,1 @@
-"# NQueue_Problem" 
+"# NQueen_Problem" 
